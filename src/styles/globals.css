@@ -4,17 +4,10 @@
 
 @layer base {
     html {
-        font-family: Poppins sans-serif;
+        scroll-behavior: smooth;
+        scroll-padding-top: 1rem;
     }
     body {
         font-family: Poppins;
-    }
-
-    @media(max-width: 800px) {
-
-        .projectcomponent {
-            margin-left: 0 !important;
-        }
-
     }
 }
