@@ -10,7 +10,7 @@ const ContatoComponent = () => {
               </svg>
 
 
-              <h1 className='text-[24px] font-semibold pl-2'>Projetos</h1>
+              <h1 className='text-[24px] font-semibold pl-2'>Contato</h1>
             </div>
             <div>
 
