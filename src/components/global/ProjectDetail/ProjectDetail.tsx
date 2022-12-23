@@ -15,7 +15,7 @@ const ProjectDetailComponent = (props: Props) => {
 
     return (
         <div className='max-w-[305px] md:max-w-auto rounded mb-2 ml-2 border-solid border-2 border-gray-500 bg-gray-100 p-3 flex items-center'>
-            <img className='w-50 h-12' src={props.icon} />
+            <img alt={props.icon} className='w-50 h-12' src={props.icon} />
             <div className="flex flex-col ml-3">
 
                 <h1 className='flex items-center'>
